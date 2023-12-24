@@ -1,1 +1,5 @@
 # Advanced_SQL_tasks_PY-SQL
+
+The "Advanced SQL" project comprises a series of tasks aimed at in-depth study and analysis of data from the stackoverflow schema using SQL queries in a Jupyter Notebook. Students are required to connect to the database, construct and execute SQL queries to analyze data, as well as answer additional questions and perform result visualization. The main goal of the project is to develop skills in working with real-world data, understanding complex queries, and the ability to present the outcomes of analytical work.
+
+Проект "Продвинутый SQL" включает ряд заданий, направленных на глубокое изучение и анализ данных из схемы stackoverflow с использованием SQL-запросов в Jupyter Notebook. Студенты должны подключиться к базе данных, составить и выполнить SQL-запросы для анализа данных, а также отвечать на дополнительные вопросы и выполнять визуализацию результатов. Основная цель проекта — развить навыки работы с реальными данными, понимание сложных запросов и умение представлять результаты аналитической работы.
